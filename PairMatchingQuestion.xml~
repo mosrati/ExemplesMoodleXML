@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<paire>
+
 	<name>
 		<text>Demo question d'appariement</text>
 	</name>
@@ -11,14 +11,14 @@
 	<subquestion>
 		<text>Premier item de la première paire</text>
 		<answer>
-	        <text>Second item de le première paire</text>
+			<text>Second item de le première paire</text>
 		</answer>
 	</subquestion>
 	<subquestion>
 		<text>Premier item de la seconde paire</text>
 		<answer>
-		<text>Second item de la seconde paire</text>
+			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
 	<shuffleanswers>true</shuffleanswers>
-</pair>
+
